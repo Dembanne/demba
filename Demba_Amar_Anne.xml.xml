@@ -1,0 +1,36 @@
+<?xml version ="1.0" encoding ="UTF-8"?>
+<!DOCTYPE Clients SYSTEM "cours.dtd">
+
+<?xml-stylesheet type="text/xls" href="cours.xsl"?>
+
+
+<cours>
+        <description titre="Maht">    
+            <UE>6</UE>
+            <intitulé>Proba_stat</intitulé>
+            <cm>15h</cm>
+            <td>15h</td>
+            <semetre>1</semetre>
+            <niveau>master</niveau>
+            <prerequis>Avoir la base en math en licence</prerequis>
+        </description>
+
+        <enseignant nombre="1">
+            <prenom>Lamine</prenom>
+            <nom>Diagne</nom>
+            <addresse_bur>bureau 2</addresse_bur>
+            <courriel>
+                <email>mlamine.diagne@univ-thies.sn</email>
+            </courriel>
+            <heure_bur>De 11h à 13 h </heure_bur>    
+        </enseignant>
+
+        <info>
+            <salle>salle 12 </salle>
+            <heure>
+                <debut>8h</debut>
+                <fin>12h</fin>
+            </heure>
+        </info>
+            
+</cours>            
